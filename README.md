@@ -1,7 +1,6 @@
-#### docker-swarm
+## sandbox env for docker swarm
 
-Sandbox env for docker swarm
-
+e.g. to init swarm
 ```bash
 vagrant up
 vagrant ssh swarm-node-0
